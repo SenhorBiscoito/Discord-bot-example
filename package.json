@@ -1,0 +1,28 @@
+{
+  "name": "wrath",
+  "version": "1.0.0",
+  "description": "Meu nenezinho",
+  "author": "Senhor Biscoito",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "aws-sdk": "^2.678.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "12.16.2"
+  }
+}
