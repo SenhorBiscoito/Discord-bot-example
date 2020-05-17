@@ -39,7 +39,6 @@ Still in [Discord Applications](https://discord.com/developers/applications) you
 
 ## 🏁 Production <a name = "production"></a>
 
-## Preparing for production
 In my case I run this application in Elastic Bean Stalk, but you are free to use anything you want. Go to the root directory of your project and zip your project runing this comand
 
 `$ zip ../botteste2.zip -r *`
