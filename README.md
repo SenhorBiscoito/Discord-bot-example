@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"> Always want to put all my favorite extension into a single place, fell free to use as well 🤗
+<p align="center"> If you always wonder how to create a discord bot feel free to use this repository as a guide line 🤗
     <br> 
 </p>
 
